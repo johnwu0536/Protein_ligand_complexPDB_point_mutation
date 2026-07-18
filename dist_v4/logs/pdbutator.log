@@ -1,0 +1,8 @@
+2026-07-18 23:22:04 [INFO] __main__: PDBMutator 启动
+2026-07-18 23:22:20 [INFO] src.core.engine: 设置 OPENMM_DATA_PATH = C:\Users\Lenovo\AppData\Local\Temp\_MEI90482\openmm\app\data
+2026-07-18 23:22:20 [INFO] src.core.engine: 突变成功: GLN21 -> ALA, 输出: G:\visual_cline\point_mutation\dist_v4\complex28_ALA.pdb
+2026-07-18 23:22:20 [INFO] src.core.logger: 突变日志已保存: G:\visual_cline\point_mutation\dist_v4\logs\mutation_20260718_232220.json
+2026-07-18 23:22:45 [INFO] src.core.engine: 设置 OPENMM_DATA_PATH = C:\Users\Lenovo\AppData\Local\Temp\_MEI90482\openmm\app\data
+2026-07-18 23:22:45 [INFO] src.core.engine: 突变成功: ARG102 -> ALA, 输出: G:\visual_cline\point_mutation\dist_v4\complex28_ALA102.pdb
+2026-07-18 23:22:45 [INFO] src.core.logger: 突变日志已保存: G:\visual_cline\point_mutation\dist_v4\logs\mutation_20260718_232245.json
+2026-07-18 23:23:40 [INFO] __main__: PDBMutator 退出，退出码: 0

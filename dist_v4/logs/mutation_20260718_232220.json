@@ -1,0 +1,27 @@
+{
+  "input_file": "C:\\Users\\Lenovo\\Desktop\\complex28.pdb",
+  "output_file": "G:\\visual_cline\\point_mutation\\dist_v4\\complex28_ALA.pdb",
+  "model": 1,
+  "chain": "A",
+  "residue_number": 21,
+  "insertion_code": "",
+  "original_residue": "GLN",
+  "new_residue": "ALA",
+  "timestamp": "2026-07-18T23:22:20.382123",
+  "warnings": [
+    "检测到 2 个原子碰撞 (阈值: 2.0 Å)"
+  ],
+  "clashes": [
+    {
+      "atom1": "GLN21:H",
+      "atom2": "LEU19:O",
+      "distance": 1.962
+    },
+    {
+      "atom1": "GLN21:HE22",
+      "atom2": "GLU268:OE1",
+      "distance": 1.795
+    }
+  ],
+  "success": true
+}

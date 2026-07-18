@@ -1,0 +1,37 @@
+{
+  "input_file": "C:\\Users\\Lenovo\\Desktop\\complex28.pdb",
+  "output_file": "G:\\visual_cline\\point_mutation\\dist_v4\\complex28_ALA102.pdb",
+  "model": 1,
+  "chain": "A",
+  "residue_number": 102,
+  "insertion_code": "",
+  "original_residue": "ARG",
+  "new_residue": "ALA",
+  "timestamp": "2026-07-18T23:22:45.544193",
+  "warnings": [
+    "检测到 4 个原子碰撞 (阈值: 2.0 Å)"
+  ],
+  "clashes": [
+    {
+      "atom1": "ARG102:H",
+      "atom2": "ASP100:OD1",
+      "distance": 1.851
+    },
+    {
+      "atom1": "ARG102:HH21",
+      "atom2": "ASP100:OD2",
+      "distance": 1.817
+    },
+    {
+      "atom1": "ARG102:H",
+      "atom2": "ASP101:C",
+      "distance": 1.947
+    },
+    {
+      "atom1": "ARG102:HH11",
+      "atom2": "ASP101:OD2",
+      "distance": 1.709
+    }
+  ],
+  "success": true
+}
